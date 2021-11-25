@@ -1,0 +1,6 @@
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub1cm1.emby.wtf
+DOMAIN,pub2cm1.emby.wtf
+DOMAIN,pub3cm1.emby.wtf
